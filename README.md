@@ -33,3 +33,14 @@
 3. Korn shell (ksh): Là một shell mạnh mẽ và tương thích ngược với Bourne shell. Nó cung cấp nhiều tính năng mở rộng như vòng lặp, câu lệnh switch, và xử lý chuỗi phong phú hơn so với Bourne shell.
 4. C shell (csh): Là một shell mà cú pháp gần với ngôn ngữ lập trình C. Nó cung cấp cú pháp dễ hiểu và các tính năng như lịch sử lệnh, tự hoàn thành và alias. Tuy nhiên, csh không phổ biến và ít được sử dụng trong các tác vụ tự động hóa.
 - Ngoài các loại shell script trên, còn có nhiều shell khác như Zsh, Dash, Fish và PowerShell, nhưng chúng ít phổ biến hơn trên Linux. Mỗi loại shell có những tính năng và cú pháp riêng, tùy thuộc vào mục đích và sở thích cá nhân, người dùng có thể lựa chọn shell phù hợp để viết shell script trên Linux.
+### V. Các tính năng và ứng dụng của Shell Script
+- Tự động hóa công việc: Shell Script cho phép tự động thực thi các tác vụ, giúp giảm công sức và thời gian thực hiện các công việc lặp đi lặp lại.
+- Quản lý hệ thống: Shell Script được sử dụng để thực hiện các tác vụ quản lý hệ thống như sao lưu dữ liệu, quản lý quyền truy cập, theo dõi tình trạng hệ thống, v.v.
+- Xử lý dữ liệu: Shell Script cung cấp các công cụ để xử lý và phân tích dữ liệu, như lọc, sắp xếp, tìm kiếm, định dạng, và tính toán.
+- Cấu hình hệ thống: Shell Script có thể được sử dụng để cấu hình các thiết lập hệ thống và tự động hóa việc cài đặt các ứng dụng và môi trường làm việc.
+### VI. Lợi ích của Shell Script
+- Tăng hiệu suất làm việc: Shell Script giúp giảm thời gian và công sức thực hiện các tác vụ lặp đi lặp lại, cho phép người dùng tập trung vào công việc quan trọng hơn.
+- Dễ dàng thay đổi và bảo trì: Do Shell Script sử dụng ngôn ngữ lệnh đơn giản, nên nó dễ dàng thay đổi và bảo trì khi cần thiết.
+- Tích hợp hệ thống: Shell Script có thể tích hợp với các công cụ và lệnh hệ thống khác, cho phép người dùng tận dụng các tính năng mạnh mẽ của hệ điều hành.
+### VII. Kết luận
+Shell Script là một công cụ mạnh mẽ trong hệ điều hành Unix/Linux, cho phép người dùng tự động hóa các tác vụ, quản lý hệ thống và xử lý dữ liệu. Với cú pháp đơn giản và tính linh hoạt, Shell Script đã trở thành một phần không thể thiếu trong công việc của nhà quản trị hệ thống và lập trình viên.
